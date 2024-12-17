@@ -1,10 +1,17 @@
-# Flask Web App Framework Generator Documentation
+# Welcome to Indigo - A Flask Data App Generator 
 
-Welcome to the Flask App Generator, a powerful tool designed to help developers quickly generate the architecture, file structure, and outline for building Flask web applications. Whether you're participating in a hackathon or starting a new project, this tool is built to accelerate your development process.
+A faster way to build and share data apps.
+
+What is Indigo?
+Indigo lets you transform Python scripts into interactive web apps in minutes, instead of weeks. Build dashboards, generate reports, or create chat apps. 
+
+Why choose Indigo?
+- Simple and Pythonic: Write beautiful, easy-to-read code.
+- Fast, interactive prototyping: Let others interact with your data and provide feedback quickly.
 
 ## Features
 
-Flask App Generator provides the following features to streamline your web application development:
+Indigo provides the following features to streamline your web application development:
 
 - **App Structures**: Choose from different application structures based on your project needs:
   - **Basic**: A single Python file acts as the command center.
